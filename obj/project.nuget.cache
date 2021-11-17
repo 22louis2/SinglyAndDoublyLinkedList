@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKLudCTUjbh+aXcm2/BgDSNZZicN0/TT6hUiJIM+vbMh1TAQGKP/Tdz1jBA30iOmOrSKIk+6QIZl379vzRo4cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Downloads\\Week4WhiteBoardingSolution\\Algorithm\\Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
